@@ -1,1 +1,1 @@
-# git-course
+# pure JS try on
